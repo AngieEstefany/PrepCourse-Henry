@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba
+Repositorio de prueba como clonar un repositorio
